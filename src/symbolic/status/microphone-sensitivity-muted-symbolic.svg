@@ -1,9 +1,69 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; }</style>
- </defs>
- <path d="m6 0c-0.78312 0-1.4938 0.2997-2.0273 0.78906l1.4199 1.4199c0.16852-0.12939 0.37758-0.20898 0.60742-0.20898 0.554 0 1 0.446 1 1v0.81445l2 2v-2.8145c0-1.66-1.34-3-3-3zm-2.8555 2.082c-0.092741 0.28956-0.14453 0.59714-0.14453 0.91797v5c0 1.66 1.34 3 3 3s3-1.34 3-3v-0.0625l-2-2v2.0625c0 0.554-0.446 1-1 1s-1-0.446-1-1v-4.0625l-1.8555-1.8555zm-3.1445 5.918c0 2.97 2.16 5.4302 5 5.9102v2.0898h2v-2.0898c2.0142-0.34044 3.6842-1.6783 4.4863-3.4863l-1.5762-1.5762c-0.38285 1.8144-1.9717 3.1523-3.9102 3.1523-2.23 0-4-1.77-4-4h-2zm11.186 0 0.76367 0.76367c0.031861-0.25023 0.050781-0.50471 0.050781-0.76367h-0.81445z" fill="currentColor" class="ColorScheme-Text"/>
- <circle cx="14" cy="4" r="1" opacity=".35" fill="currentColor" class="ColorScheme-Text"/>
- <circle cx="14" cy="8" r="1" opacity=".35" fill="currentColor" class="ColorScheme-Text"/>
- <path d="m1.531 0.469-1.061 1.061 14 14 1.062-1.062z" fill="currentColor" class="ColorScheme-Text"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="microphone-sensitivity-muted-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="22.627417"
+     inkscape:cx="4.7950679"
+     inkscape:cy="-0.59662135"
+     inkscape:window-width="2540"
+     inkscape:window-height="1326"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; }</style>
+  </defs>
+  <path
+     d="m 6.2493353,2.1000517 c -0.554614,0 -1.0579252,0.2210277 -1.4357556,0.5819292 L 5.819168,3.7291525 c 0.1193477,-0.095424 0.2674063,-0.154122 0.4301814,-0.154122 0.3923488,0 0.7082108,0.3289235 0.7082108,0.7374967 V 4.9131814 L 8.3739816,6.388175 V 4.3124903 C 8.3739816,3.0882457 7.4249793,2.1 6.2493494,2.1 Z M 4.2270395,3.6355199 c -0.06568,0.2135496 -0.1023577,0.4403888 -0.1023577,0.677 v 3.6874837 c 0,1.2242447 0.9490024,2.2124914 2.1246322,2.2124914 1.1756299,0 2.1246322,-0.9882467 2.1246322,-2.2124914 V 7.9539101 L 6.9575247,6.4789166 v 1.521087 c 0,0.4085733 -0.3158619,0.7374968 -0.7082107,0.7374968 -0.3923487,0 -0.7082108,-0.3289235 -0.7082108,-0.7374968 V 5.003923 L 4.2270183,3.6354978 Z M 2.0000708,8.0000258 c 0,2.1903662 1.5297352,4.0047562 3.5410537,4.3587542 V 13.9 H 6.957546 v -1.54122 c 1.4264781,-0.251074 2.60919,-1.237742 3.177246,-2.5711358 L 9.0185101,8.6252018 C 8.7473716,9.963316 7.6221309,10.950013 6.2492645,10.950013 c -1.57931,0 -2.832843,-1.3053694 -2.832843,-2.9499872 H 2 Z m 7.9220453,0 0.5408399,0.5632041 c 0.02256,-0.1845437 0.03596,-0.372222 0.03596,-0.5632041 z"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="path1"
+     style="stroke-width:0.722705" />
+  <ellipse
+     cx="11.915021"
+     cy="5.0500388"
+     opacity="0.35"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="circle1"
+     style="stroke-width:0.722705"
+     rx="0.70821077"
+     ry="0.73749679" />
+  <ellipse
+     cx="11.915021"
+     cy="8.0000257"
+     opacity="0.35"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="circle2"
+     style="stroke-width:0.722705"
+     rx="0.70821077"
+     ry="0.73749679" />
+  <path
+     d="M 3.0843414,2.4459376 2.3329299,3.2284217 12.24788,13.553376 13,12.770156 Z"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="path2"
+     style="stroke-width:0.722705" />
 </svg>

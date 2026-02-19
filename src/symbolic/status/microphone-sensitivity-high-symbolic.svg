@@ -1,9 +1,70 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; }</style>
- </defs>
- <path d="m6 0c-1.66 0-3 1.34-3 3v5c0 1.66 1.34 3 3 3s3-1.34 3-3v-5c0-1.66-1.34-3-3-3zm0 2c0.554 0 1 0.446 1 1v5c0 0.554-0.446 1-1 1s-1-0.446-1-1v-5c0-0.554 0.446-1 1-1zm-6 6c0 2.97 2.16 5.4302 5 5.9102v2.0898h2v-2.0898c2.84-0.48 5-2.9402 5-5.9102h-2c0 2.23-1.77 4-4 4s-4-1.77-4-4z" fill="currentColor" class="ColorScheme-Text"/>
- <circle cx="14" cy="4" r="1" fill="currentColor" class="ColorScheme-Text"/>
- <circle cx="14" cy="8" r="1" fill="currentColor" class="ColorScheme-Text"/>
- <circle cx="14" cy="12" r="1" fill="currentColor" class="ColorScheme-Text"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="microphone-sensitivity-high-symbolic.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="25.56633"
+     inkscape:cx="2.835761"
+     inkscape:cy="9.876271"
+     inkscape:window-width="2540"
+     inkscape:window-height="1326"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; }</style>
+  </defs>
+  <path
+     d="M 6.4000003,2.1 C 5.1826669,2.1 4.2000001,3.08825 4.2000001,4.3125 V 8 c 0,1.22425 0.9826668,2.2125 2.2000002,2.2125 1.2173333,0 2.2,-0.98825 2.2,-2.2125 V 4.3125 c 0,-1.22425 -0.9826667,-2.2125 -2.2,-2.2125 z m 0,1.4750001 c 0.4062667,0 0.7333334,0.3289249 0.7333334,0.7374999 V 8 c 0,0.408575 -0.3270667,0.7375 -0.7333334,0.7375 C 5.9937336,8.7375 5.6666669,8.408575 5.6666669,8 V 4.3125 c 0,-0.408575 0.3270667,-0.7374999 0.7333334,-0.7374999 z M 2,8 c 0,2.190375 1.5840001,4.004772 3.6666669,4.358772 V 13.9 H 7.1333337 V 12.358772 C 9.2160004,12.004772 10.800001,10.190375 10.800001,8 H 9.3333338 c 0,1.6446249 -1.2980002,2.949999 -2.9333335,2.949999 C 4.7646669,10.949999 3.4666668,9.6446249 3.4666668,8 Z"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="path1"
+     style="stroke-width:0.735414" />
+  <ellipse
+     cx="12.266666"
+     cy="5.0499997"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="circle1"
+     style="stroke-width:0.735414"
+     rx="0.73333335"
+     ry="0.73750001" />
+  <ellipse
+     cx="12.266666"
+     cy="8"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="circle2"
+     style="stroke-width:0.735414"
+     rx="0.73333335"
+     ry="0.73750001" />
+  <ellipse
+     cx="12.266666"
+     cy="10.950001"
+     fill="currentColor"
+     class="ColorScheme-Text"
+     id="circle3"
+     style="stroke-width:0.735414"
+     rx="0.73333335"
+     ry="0.73750001" />
 </svg>
